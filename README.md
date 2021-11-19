@@ -1,2 +1,4 @@
 # labsGighub
-Repositorio para laboratorio GIT
+Repositorio para labs
+
+I am editing the README file. Adding some more details about the project description.
